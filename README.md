@@ -1,1 +1,1 @@
-# NLP-project-Fake-News-classifier
+# NLP-projects
